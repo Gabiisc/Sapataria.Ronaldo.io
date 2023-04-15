@@ -1,0 +1,24 @@
+
+head {
+
+}
+
+.ulh {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    background-color: sienna;
+
+}
+li {
+    padding: 20px;
+    background-attachment: fixed;
+    background-color:rgb(165, 126, 42)
+    
+}
+
+a {text-decoration:none; 
+    font-family: Verdana;
+    color:black;
+    cursor: URL(https://emoji.discadia.com/emojis/129e7b48-ad83-4629-b43f-a696dd89ad64.PNG), default;
+    
